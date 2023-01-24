@@ -12,7 +12,7 @@
             "pt-BR": "Uma seção para adicionar, editar e excluir funcionários foi adicionada às Configurações Administrativas.",
             "es": "Se agregó una sección para agregar, editar y eliminar empleados en Configuración administrativa."
         },
-        "date": "2023-19-01"
+        "date": "2023-01-19"
     },
     {
         "version": "CIQ V1.1.1",
@@ -27,7 +27,7 @@
             "pt-BR": "Uma seção para criar, editar e associar formulários para pesquisa de sentimento do usuário foi adicionada às Configurações Administrativas.",
             "es": "Se ha agregado a la configuración administrativa una sección para crear, editar y asociar formularios para la investigación de opiniones de los usuarios."
         },
-        "date": "2023-19-01"
+        "date": "2023-01-19"
     },
     {
         "version": "CIQ V1.1.1",
@@ -42,7 +42,7 @@
             "pt-BR": "Foi criada a Integração da Alma com a Pesquisa de Sentimento do Usuário.",
             "es": "Se creó Soul Integration con User Sentiment Survey."
         },
-        "date": "2023-19-01"
+        "date": "2023-01-19"
     },
     {
         "version": "CIQ V1.1.1",
@@ -57,7 +57,7 @@
             "pt-BR": "Foi corrigida a exibição de informações na métrica de erros de eventos do Windows.",
             "es": "Se corrigió la visualización de información en la métrica de error de eventos de Windows."
         },
-        "date": "2023-19-01"
+        "date": "2023-01-19"
     },
     {
         "version": "CIQ V1.1.1",
@@ -72,7 +72,7 @@
             "pt-BR": "O gráfico ao longo do tempo agora apresenta linhas gráficas contíguas, mesmo que não haja dados.",
             "es": "El gráfico a lo largo del tiempo ahora muestra líneas gráficas contiguas incluso si no hay datos."
         },
-        "date": "2023-19-01"
+        "date": "2023-01-19"
     },
     {
         "version": "CIQ V1.1.1",
@@ -87,7 +87,7 @@
             "pt-BR": "As informações sobre o modelo e o número de série da máquina foram adicionadas às Informações da máquina.",
             "es": "Se agregó información sobre el modelo y el número de serie de la máquina a Información de la máquina."
         },
-        "date": "2023-19-01"
+        "date": "2023-01-19"
     },
     {
         "version": "CIQ V1.1.1",
@@ -102,7 +102,7 @@
             "pt-BR": "Alguns aplicativos apareciam duplicados na lista de softwares aprovados.",
             "es": "Algunas aplicaciones aparecían duplicadas en la lista de software aprobado."
         },
-        "date": "2023-19-01"
+        "date": "2023-01-19"
     },
     {
         "version": "CIQ V1.1.1",
@@ -117,7 +117,7 @@
             "pt-BR": "O CIQ informa a localização corretamente.",
             "es": "CIQ informa la ubicación correctamente."
         },
-        "date": "2023-19-01"
+        "date": "2023-01-19"
     },
     {
         "version": "CIQ V1.1.1",
@@ -132,7 +132,7 @@
             "pt-BR": "A exibição do dispositivo inclui opções de detalhamento.",
             "es": "La vista de dispositivos incluye opciones detalladas."
         },
-        "date": "2023-19-01"
+        "date": "2023-01-19"
     },
     {
         "version": "CIQ V1.1.1",
@@ -147,7 +147,7 @@
             "pt-BR": "Os filtros se aplicam a todos os widgets/gráficos em uma página.",
             "es": "Los filtros se aplican a todos los widgets/gráficos de una página."
         },
-        "date": "2023-19-01"
+        "date": "2023-01-19"
     },
     {
         "version": "CIQ V1.1.1",
@@ -162,7 +162,7 @@
             "pt-BR": "Os filtros são refletidos na pontuação da experiência.",
             "es": "Los filtros se reflejan en la puntuación de la experiencia."
         },
-        "date": "2023-19-01"
+        "date": "2023-01-19"
     },
     {
         "version": "CIQ V1.1.1",
@@ -177,7 +177,7 @@
             "pt-BR": "A capacidade de importar arquivos CSV para adicionar dados do usuário ao CIQ foi implementada.",
             "es": "Se implementó la capacidad de importar archivos CSV para agregar datos de usuario a CIQ."
         },
-        "date": "2023-19-01"
+        "date": "2023-01-19"
     },
     {
         "version": "CIQ V1.1.1",
@@ -192,6 +192,6 @@
             "pt-BR": "Foi criado um filtro opcional para todo o locatário que oculta dados de sistemas que não mostraram novos dados coletados.",
             "es": "Creó un filtro opcional para todo el arrendatario que oculta los datos de los sistemas que no mostraban nuevos datos recopilados."
         },
-        "date": "2023-19-01"
+        "date": "2023-01-19"
     }
 ]

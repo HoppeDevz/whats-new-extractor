@@ -3,8 +3,8 @@ import path from "path";
 
 const jsonPath = path.resolve(__dirname, "json-generated.json");
 
-const RELEASE_ID = 0;
-const BUILD = "";
+const RELEASE_ID = 16;
+const BUILD = "2f72g2c";
 
 type TranslateObject = {
 
@@ -35,7 +35,7 @@ type Row = {
 
 
 INSERT INTO 
-    ciq.release (title, description, type, date, releaseId, build) 
+    ciq.release ("title", "description", "type", "date", "releaseId", "build") 
 VALUES 
     ('${JSON.stringify(row.title)}', '${JSON.stringify(row.description)}', '${row.type}', '${row.date}', ${RELEASE_ID}, '${BUILD}');
 

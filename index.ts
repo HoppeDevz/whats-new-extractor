@@ -29,13 +29,13 @@ function formatDate(stringifyDate: string) {
 
     const yyyy = digits[2];
 
-    const mm = parseInt(digits[1]) <= 9 
-        ? "0" + digits[1]
-        : digits[1]
-
-    const dd = parseInt(digits[0]) <= 9 
+    const mm = parseInt(digits[0]) <= 9 
         ? "0" + digits[0]
         : digits[0]
+
+    const dd = parseInt(digits[1]) <= 9 
+        ? "0" + digits[1]
+        : digits[1]
 
     return `${yyyy}-${mm}-${dd}`;
 }
