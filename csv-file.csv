@@ -1,0 +1,13 @@
+CIQ V1.1.1|New|Employees|A section for adding, editing and delete employees was added to Administrative Settings.|1/19/2023
+CIQ V1.1.1|New|User Sentiment Survey|A section for creating, editing, and associating forms for user sentiment research was added to Administrative Settings.|1/19/2023
+CIQ V1.1.1|New|Alma Integration|Alma Integration with User Sentiment Survey was created.|1/19/2023
+CIQ V1.1.1|Fixes|Windows Event Errors|The display of information in the Windows Event Errors metric was fixed.|1/19/2023
+CIQ V1.1.1|Improvement|Over Time Chart|Over Time Chart now presents graphed lines contiguous even if there is no data.|1/19/2023
+CIQ V1.1.1|Improvement|Machine Info|Information about the model and machine serial number was added to Machine Info.|1/19/2023
+CIQ V1.1.1|Fixes|Approved Software|Some applications were appearing duplicated in the list of approved software.|1/19/2023
+CIQ V1.1.1|Fixes|Location Report|CIQ reports the location correctly.|1/19/2023
+CIQ V1.1.1|Fixes|Device View|Device View is including Drill Down Options.|1/19/2023
+CIQ V1.1.1|Improvement|Filters|Filters apply to all widgets/graphs on a page.|1/19/2023
+CIQ V1.1.1|Fixes|Overall Score|Filters are reflected in the experience score.|1/19/2023
+CIQ V1.1.1|New|Import CSV File|The capability to import CSV files for adding user data into CIQ was implemented.|1/19/2023
+CIQ V1.1.1|Improvement|Devices With No Data Collected|An optional tenant-wide filter that hides data from systems which have shown no new data collected was created.|1/19/2023

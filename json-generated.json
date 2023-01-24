@@ -1,0 +1,197 @@
+[
+    {
+        "version": "CIQ V1.1.1",
+        "type": "N",
+        "title": {
+            "en-US": "Employees",
+            "pt-BR": "Funcionários",
+            "es": "Empleados"
+        },
+        "description": {
+            "en-US": "A section for adding, editing and delete employees was added to Administrative Settings.",
+            "pt-BR": "Uma seção para adicionar, editar e excluir funcionários foi adicionada às Configurações Administrativas.",
+            "es": "Se agregó una sección para agregar, editar y eliminar empleados en Configuración administrativa."
+        },
+        "date": "2023-19-01"
+    },
+    {
+        "version": "CIQ V1.1.1",
+        "type": "N",
+        "title": {
+            "en-US": "User Sentiment Survey",
+            "pt-BR": "Pesquisa de Sentimento do Usuário",
+            "es": "Encuesta de Opinión del Usuario"
+        },
+        "description": {
+            "en-US": "A section for creating, editing, and associating forms for user sentiment research was added to Administrative Settings.",
+            "pt-BR": "Uma seção para criar, editar e associar formulários para pesquisa de sentimento do usuário foi adicionada às Configurações Administrativas.",
+            "es": "Se ha agregado a la configuración administrativa una sección para crear, editar y asociar formularios para la investigación de opiniones de los usuarios."
+        },
+        "date": "2023-19-01"
+    },
+    {
+        "version": "CIQ V1.1.1",
+        "type": "N",
+        "title": {
+            "en-US": "Alma Integration",
+            "pt-BR": "Integração da Alma",
+            "es": "Integración del Alma"
+        },
+        "description": {
+            "en-US": "Alma Integration with User Sentiment Survey was created.",
+            "pt-BR": "Foi criada a Integração da Alma com a Pesquisa de Sentimento do Usuário.",
+            "es": "Se creó Soul Integration con User Sentiment Survey."
+        },
+        "date": "2023-19-01"
+    },
+    {
+        "version": "CIQ V1.1.1",
+        "type": "F",
+        "title": {
+            "en-US": "Windows Event Errors",
+            "pt-BR": "Eventos de Erros do Windows",
+            "es": "Eventos de Error de Windows"
+        },
+        "description": {
+            "en-US": "The display of information in the Windows Event Errors metric was fixed.",
+            "pt-BR": "Foi corrigida a exibição de informações na métrica de erros de eventos do Windows.",
+            "es": "Se corrigió la visualización de información en la métrica de error de eventos de Windows."
+        },
+        "date": "2023-19-01"
+    },
+    {
+        "version": "CIQ V1.1.1",
+        "type": "I",
+        "title": {
+            "en-US": "Over Time Chart",
+            "pt-BR": "Gráfico ao Longo do Tempo",
+            "es": "Gráfico a lo Largo del Tiempo"
+        },
+        "description": {
+            "en-US": "Over Time Chart now presents graphed lines contiguous even if there is no data.",
+            "pt-BR": "O gráfico ao longo do tempo agora apresenta linhas gráficas contíguas, mesmo que não haja dados.",
+            "es": "El gráfico a lo largo del tiempo ahora muestra líneas gráficas contiguas incluso si no hay datos."
+        },
+        "date": "2023-19-01"
+    },
+    {
+        "version": "CIQ V1.1.1",
+        "type": "I",
+        "title": {
+            "en-US": "Machine Info",
+            "pt-BR": "Informações da Máquina",
+            "es": "Información de la Máquina"
+        },
+        "description": {
+            "en-US": "Information about the model and machine serial number was added to Machine Info.",
+            "pt-BR": "As informações sobre o modelo e o número de série da máquina foram adicionadas às Informações da máquina.",
+            "es": "Se agregó información sobre el modelo y el número de serie de la máquina a Información de la máquina."
+        },
+        "date": "2023-19-01"
+    },
+    {
+        "version": "CIQ V1.1.1",
+        "type": "F",
+        "title": {
+            "en-US": "Approved Software",
+            "pt-BR": "Software Aprovado",
+            "es": "Software Aprobado"
+        },
+        "description": {
+            "en-US": "Some applications were appearing duplicated in the list of approved software.",
+            "pt-BR": "Alguns aplicativos apareciam duplicados na lista de softwares aprovados.",
+            "es": "Algunas aplicaciones aparecían duplicadas en la lista de software aprobado."
+        },
+        "date": "2023-19-01"
+    },
+    {
+        "version": "CIQ V1.1.1",
+        "type": "F",
+        "title": {
+            "en-US": "Location Report",
+            "pt-BR": "Relatório de Localização",
+            "es": "Informe de Ubicación"
+        },
+        "description": {
+            "en-US": "CIQ reports the location correctly.",
+            "pt-BR": "O CIQ informa a localização corretamente.",
+            "es": "CIQ informa la ubicación correctamente."
+        },
+        "date": "2023-19-01"
+    },
+    {
+        "version": "CIQ V1.1.1",
+        "type": "F",
+        "title": {
+            "en-US": "Device View",
+            "pt-BR": "Visualização do Dispositivo",
+            "es": "Vista del Dispositivo"
+        },
+        "description": {
+            "en-US": "Device View is including Drill Down Options.",
+            "pt-BR": "A exibição do dispositivo inclui opções de detalhamento.",
+            "es": "La vista de dispositivos incluye opciones detalladas."
+        },
+        "date": "2023-19-01"
+    },
+    {
+        "version": "CIQ V1.1.1",
+        "type": "I",
+        "title": {
+            "en-US": "Filters",
+            "pt-BR": "Filtros",
+            "es": "Filtros"
+        },
+        "description": {
+            "en-US": "Filters apply to all widgets/graphs on a page.",
+            "pt-BR": "Os filtros se aplicam a todos os widgets/gráficos em uma página.",
+            "es": "Los filtros se aplican a todos los widgets/gráficos de una página."
+        },
+        "date": "2023-19-01"
+    },
+    {
+        "version": "CIQ V1.1.1",
+        "type": "F",
+        "title": {
+            "en-US": "Overall Score",
+            "pt-BR": "Pontuação Geral",
+            "es": "Overall Score"
+        },
+        "description": {
+            "en-US": "Filters are reflected in the experience score.",
+            "pt-BR": "Os filtros são refletidos na pontuação da experiência.",
+            "es": "Los filtros se reflejan en la puntuación de la experiencia."
+        },
+        "date": "2023-19-01"
+    },
+    {
+        "version": "CIQ V1.1.1",
+        "type": "N",
+        "title": {
+            "en-US": "Import CSV File",
+            "pt-BR": "Importar Arquivo CSV",
+            "es": "Importar Archivo CSV"
+        },
+        "description": {
+            "en-US": "The capability to import CSV files for adding user data into CIQ was implemented.",
+            "pt-BR": "A capacidade de importar arquivos CSV para adicionar dados do usuário ao CIQ foi implementada.",
+            "es": "Se implementó la capacidad de importar archivos CSV para agregar datos de usuario a CIQ."
+        },
+        "date": "2023-19-01"
+    },
+    {
+        "version": "CIQ V1.1.1",
+        "type": "I",
+        "title": {
+            "en-US": "Devices With No Data Collected",
+            "pt-BR": "Dispositivos sem Dados Coletados",
+            "es": "Dispositivos sin datos Recopilados"
+        },
+        "description": {
+            "en-US": "An optional tenant-wide filter that hides data from systems which have shown no new data collected was created.",
+            "pt-BR": "Foi criado um filtro opcional para todo o locatário que oculta dados de sistemas que não mostraram novos dados coletados.",
+            "es": "Creó un filtro opcional para todo el arrendatario que oculta los datos de los sistemas que no mostraban nuevos datos recopilados."
+        },
+        "date": "2023-19-01"
+    }
+]
